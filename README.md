@@ -1,0 +1,2 @@
+# Traffic-Routing-Optimal-Path-in-Graph-Based-Networks-DRL-Approach
+Graph-based network optimization model to minimize delay and congestion in networks. Unlike conventional algorithms, our model overcomes limitations by considering a broader range of network parameters. Formulated a Deep Reinforcement Learning (DRL) approach with a custom environment, reward function, and agent capable of learning optimal policy.
